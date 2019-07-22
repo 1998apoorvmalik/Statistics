@@ -1,0 +1,9 @@
+Sr. No.,Input Data,Validation,Context Technique Time (S),Dictionary Technique Time (S),Hybrid (Proposed Technique) Time (S)
+1,100100011110,Success,0.0223685,0.0223683,0.0223682
+2,Hello I Live In India I am Phd Scholar Engineering,Success,0.175918,0.175917,0.175915
+3,Welcome To India,Success,0.087283,0.087283,0.087282
+4,11101111,Success,0.0045889,0.0045888,0.0045887
+5,Testing,Success,0.069823,0.069823,0.069822
+6,Hybrid Technique,Success,0.128476,0.128476,0.128475
+7,Signal,Success,0.049350,0.049349,0.049347
+8,Engineering ,Success,0.052430,0.052429,0.052428
